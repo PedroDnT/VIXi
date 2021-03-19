@@ -5,6 +5,7 @@ Notebook Study on trying to replicate the VIX Index methodology for B3(rip BVSP)
 - If you have problem downloading the raw files contact me and I'll send you
 - Feel free to reach me if you have any ideas/coments
 - Something broke the original VIX file and I am writing it again
+- Yes, the code is still very ineficient and doesnt comply with python best practices
 
 ## Downloading and parsing data
 F+iles Download: [BMFBOV - COTACOES HISTORICAS](http://www.bmfbovespa.com.br/pt_br/servicos/market-data/historico/mercado-a-vista/cotacoes-historicas/)
@@ -24,6 +25,7 @@ More detailed explanation on the other [repository](https://github.com/PedroDnT/
 ### Usage
 The notebook cruncher.ipynb uses the above functions to group tables and select only info relevant to calculate the VIX. 
 The actual VIX function is still under development. 
+
 
 *is us who fly dog*
 
