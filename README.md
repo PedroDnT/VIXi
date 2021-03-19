@@ -2,12 +2,12 @@
 Notebook Study on trying to replicate the VIX Index methodology for B3(rip BVSP)
 
 ## Obs: 
-If you have problem downloading the raw files contact me and I'll send you
-Feel free to reach me if you have any ideas/coments
-Something broke the original VIX file and I am writing it again
+- If you have problem downloading the raw files contact me and I'll send you
+- Feel free to reach me if you have any ideas/coments
+- Something broke the original VIX file and I am writing it again
 
 ## Downloading and parsing data
-Files Download: [BMFBOV - COTACOES HISTORICAS](http://www.bmfbovespa.com.br/pt_br/servicos/market-data/historico/mercado-a-vista/cotacoes-historicas/)
+F+iles Download: [BMFBOV - COTACOES HISTORICAS](http://www.bmfbovespa.com.br/pt_br/servicos/market-data/historico/mercado-a-vista/cotacoes-historicas/)
 Historical txt series with all transactions on B3. 
 
 ## B3_Reader.py 
